@@ -32,12 +32,7 @@ I am a postdoctoral researcher in the
 Northeastern University, working with Prof. Albert-László Barabási. I completed
 my Ph.D. in Physics at Tongji University, advised by Prof. Gang Yan.
 
-My research sits at the intersection of **network science, machine learning,
-and AI for science**. I develop data-driven and interpretable methods to
-infer, predict, and understand the dynamics of complex systems — from networked
-dynamical systems and stochastic processes to physical networks and
-metamaterials. A central goal of my work is to turn incomplete and noisy
-observations into transparent, mechanistic models of how complex systems behave.
+*[Research summary placeholder — add your research overview here.]*
 
 ## Selected publications
 
