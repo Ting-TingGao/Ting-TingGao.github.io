@@ -42,15 +42,6 @@ dynamical systems and stochastic processes to physical networks and
 metamaterials. A central goal of my work is to turn incomplete and noisy
 observations into transparent, mechanistic models of how complex systems behave.
 
-## News
-
-<ul class="news">
-  <li><span class="date">2026</span><span>Co-organizing the <strong>Physical Networks satellite</strong> at NetSci 2026.</span></li>
-  <li><span class="date">2026</span><span>New paper on <em>Herglotz Lagrangian neural networks</em> published in <em>Physical Review Research</em>.</span></li>
-  <li><span class="date">2025</span><span><em>Scale-Rich Network-Based Metamaterials</em> is under review at <em>Nature</em> (<a href="https://arxiv.org/abs/2511.18108">arXiv</a>).</span></li>
-  <li><span class="date">2024</span><span>Started my postdoc in the Barabási Lab (CCNR) at Northeastern University.</span></li>
-</ul>
-
 ## Selected publications
 
 <ul class="pub-list">
