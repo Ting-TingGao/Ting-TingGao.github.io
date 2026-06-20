@@ -5,7 +5,7 @@
 # selected: true marks a paper to feature on the homepage.
 
 - title: "Herglotz Lagrangian neural networks: Learning dissipative dynamics via contact variational principles"
-  authors: "Q. Huang, J. M. Moore, **T.-T. Gao***, G. Yan"
+  authors: "Q. Huang, J. M. Moore, **T.-T. Gao***, G. Yan*"
   venue: "Physical Review Research"
   year: 2026
   details: "8(2), 023224"
@@ -14,7 +14,7 @@
   link: "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.8.023224"
 
 - title: "Encoding cumulation to learn perturbative nonlinear oscillatory dynamics"
-  authors: "T. Ma, **T.-T. Gao**, W. Cui, A. Frangi, G. Yan, L. Zhao"
+  authors: "T. Ma, **T.-T. Gao**, W. Cui*, A. Frangi, G. Yan*, L. Zhao*"
   venue: "Advanced Science"
   year: 2026
   details: "13(25), e19707"
@@ -22,7 +22,7 @@
   link: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202519707"
 
 - title: "Scale-Rich Network-Based Metamaterials"
-  authors: "C. Both, A. Y. J. Chen, **T.-T. Gao**, N. Mooij, M. Charara, C. M. Portela, A.-L. Barabási"
+  authors: "C. Both, A. Y. J. Chen, **T.-T. Gao**, N. Mooij, M. Charara, C. M. Portela, A.-L. Barabási*"
   venue: "Under review"
   year: 2025
   details: "arXiv:2511.18108"
@@ -30,7 +30,7 @@
   link: "https://arxiv.org/abs/2511.18108"
 
 - title: "Brain-inspired wiring economics for artificial neural networks"
-  authors: "X.-J. Zhang, J. M. Moore, **T.-T. Gao**, X. Zhang, G. Yan"
+  authors: "X.-J. Zhang, J. M. Moore, **T.-T. Gao**, X. Zhang, G. Yan*"
   venue: "PNAS Nexus"
   year: 2025
   details: "4(1), pgae580"
@@ -38,7 +38,7 @@
   link: "https://academic.oup.com/pnasnexus/article/4/1/pgae580/7945115"
 
 - title: "Learning interpretable dynamics of stochastic complex systems from experimental data"
-  authors: "**T.-T. Gao**, B. Barzel, G. Yan"
+  authors: "**T.-T. Gao**, B. Barzel, G. Yan*"
   venue: "Nature Communications"
   year: 2024
   details: "15(1), 6029"
@@ -47,7 +47,7 @@
   link: "https://www.nature.com/articles/s41467-024-50378-x"
 
 - title: "Early predictor for the onset of critical transitions in networked dynamical systems"
-  authors: "Z. Liu, X. Zhang, X. Ru, **T.-T. Gao**, J. M. Moore, G. Yan"
+  authors: "Z. Liu, X. Zhang, X. Ru, **T.-T. Gao**, J. M. Moore*, G. Yan*"
   venue: "Physical Review X"
   year: 2024
   details: "14(3), 031009"
@@ -55,7 +55,7 @@
   link: "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.031009"
 
 - title: "Data-driven inference of complex system dynamics: A mini-review"
-  authors: "**T.-T. Gao**, G. Yan"
+  authors: "**T.-T. Gao**, G. Yan*"
   venue: "Europhysics Letters"
   year: 2023
   details: "142(1), 11001"
@@ -63,7 +63,7 @@
   link: "https://doi.org/10.1209/0295-5075/acc3bf"
 
 - title: "Data-based autonomously discovering method for nonlinear aerodynamic force of quasi-flat plate"
-  authors: "T. Ma, W. Cui, **T.-T. Gao**, S. Liu, L. Zhao, Y. Ge"
+  authors: "T. Ma, W. Cui*, **T.-T. Gao**, S. Liu, L. Zhao, Y. Ge"
   venue: "Physics of Fluids"
   year: 2023
   details: "35(2)"
@@ -71,7 +71,7 @@
   link: "https://doi.org/10.1063/5.0133526"
 
 - title: "Autonomous inference of complex network dynamics from incomplete and noisy data"
-  authors: "**T.-T. Gao**, G. Yan"
+  authors: "**T.-T. Gao**, G. Yan*"
   venue: "Nature Computational Science"
   year: 2022
   details: "2(3), 160-168"
