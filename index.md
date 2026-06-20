@@ -32,7 +32,19 @@ I am a postdoctoral researcher in the
 Northeastern University, working with Prof. Albert-László Barabási. I completed
 my Ph.D. in Physics at Tongji University, advised by Prof. Gang Yan.
 
-*[Research summary placeholder — add your research overview here.]*
+My research explores how complex systems can be understood, predicted, and
+designed through networks. I work on **AI for complex systems**, developing deep
+learning and computational frameworks to infer hidden interactions and model
+nonlinear dynamics in networked systems. A central goal is to use AI not only as
+a predictive tool, but also as a way to uncover interpretable principles behind
+collective behavior.
+
+I also study **physical networks**, where abstract network organization becomes
+embedded in space and constrained by geometry, material properties, and physical
+laws. My current work investigates network materials — specifically Scale-Rich
+network materials — asking how topology and geometry across scales can be
+designed to control transport, mechanical response, robustness, and wave
+propagation.
 
 ## Selected publications
 
