@@ -6,7 +6,7 @@ description: Publications by Ting-Ting Gao.
 
 # Publications
 
-<p>See also my <a href="{{ site.scholar }}" target="_blank" rel="noopener">Google Scholar profile</a>. <strong>Bold</strong> indicates my name; * denotes corresponding author.</p>
+<p>See also my <a href="{{ site.scholar }}" target="_blank" rel="noopener">Google Scholar profile</a>.</p>
 
 {% assign pubs = site.data.publications %}
 {% assign years = pubs | map: "year" | uniq | sort | reverse %}
