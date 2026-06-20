@@ -43,7 +43,7 @@ my Ph.D. in Physics at Tongji University, advised by Prof. Gang Yan.
     <div class="pub-title">
       {% if pub.link %}<a href="{{ pub.link }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}
     </div>
-    <div class="pub-authors">{{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+    <div class="pub-authors">{{ pub.authors }}</div>
     <div class="pub-venue"><em>{{ pub.venue }}</em>{% if pub.details %}, {{ pub.details }}{% endif %} ({{ pub.year }})</div>
   </li>
 {% endfor %}
