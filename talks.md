@@ -16,7 +16,7 @@ description: Invited talks and presentations by Ting-Ting Gao.
 ## Service
 
 <div class="entry">
-  <div><span class="etype">Co-organizer</span> — Physical Networks satellite</div>
+  <div><span class="etype">Co-organizer</span> — <a href="https://sites.google.com/view/physnet26" target="_blank" rel="noopener">Physical Networks satellite</a></div>
   <div class="meta">NetSci 2026</div>
 </div>
 <div class="entry">
