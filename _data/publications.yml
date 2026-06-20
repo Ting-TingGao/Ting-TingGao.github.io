@@ -27,6 +27,7 @@
   year: 2025
   details: "arXiv:2511.18108"
   status: review
+  selected: true
   link: "https://arxiv.org/abs/2511.18108"
 
 - title: "Brain-inspired wiring economics for artificial neural networks"
