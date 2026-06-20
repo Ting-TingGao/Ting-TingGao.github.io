@@ -5,7 +5,7 @@
 # selected: true marks a paper to feature on the homepage.
 
 - title: "Herglotz Lagrangian neural networks: Learning dissipative dynamics via contact variational principles"
-  authors: "Q. Huang, J. M. Moore, **Ting-Ting Gao**, G. Yan"
+  authors: "Q. Huang, J. M. Moore, **Ting-Ting Gao***, G. Yan"
   venue: "Physical Review Research"
   year: 2026
   details: "8(2), 023224"
@@ -22,7 +22,7 @@
 
 - title: "Scale-Rich Network-Based Metamaterials"
   authors: "C. Both, A. Y. J. Chen, **Ting-Ting Gao**, N. Mooij, M. Charara, C. M. Portela, A.-L. Barabási"
-  venue: "Under review in Nature"
+  venue: "Under review"
   year: 2025
   details: "arXiv:2511.18108"
   status: review
@@ -85,15 +85,3 @@
   venue: "Submitted"
   year: 2025
   status: submitted
-
-- title: "Symbolic regression of flow-field symmetry breaking in collective cancer cell migration"
-  authors: "Y. Yao, **Ting-Ting Gao***, et al."
-  venue: "In preparation"
-  year: 2025
-  status: preparation
-
-- title: "Transport in Scale-Rich network materials"
-  authors: "**Ting-Ting Gao**, I. Silber, et al."
-  venue: "In preparation"
-  year: 2025
-  status: preparation
