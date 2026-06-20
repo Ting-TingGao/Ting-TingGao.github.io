@@ -1,0 +1,49 @@
+# Site settings
+title: Ting-Ting Gao
+tagline: Network Science · Nonlinear Dynamics · AI for Science
+description: >-
+  Ting-Ting Gao is a postdoctoral researcher at the Center for Complex Network
+  Research (CCNR), Northeastern University, working on network science,
+  nonlinear dynamics, and data-driven inference of complex systems.
+author: Ting-Ting Gao
+email: ti.gao@northeastern.edu
+
+# Update this to your final URL once you create the GitHub repo.
+# If you publish at https://<username>.github.io, set baseurl: "" and url to that.
+# If you publish at https://<username>.github.io/<repo>, set baseurl: "/<repo>".
+url: ""
+baseurl: ""
+
+# Contact / profile links (leave blank to hide)
+scholar: "https://scholar.google.com/citations?user=-neTJpAAAAAJ&hl=en"
+github: ""
+orcid: ""
+linkedin: ""
+twitter: ""
+cv_pdf: "/assets/cv/CV_Gao.pdf"
+location: "Boston, MA, USA"
+affiliation: "Center for Complex Network Research, Northeastern University"
+
+# Navigation
+nav:
+  - title: About
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Talks
+    url: /talks/
+  - title: CV
+    url: /cv/
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+# GitHub Pages compatibility
+plugins:
+  - jekyll-seo-tag

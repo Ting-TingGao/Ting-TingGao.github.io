@@ -1,0 +1,25 @@
+# Invited talks and presentations. Newest first.
+- type: "Invited talk"
+  title: "Interpretable dynamical inference and critical point analysis in complex systems"
+  venue: "Swarma Club"
+  date: "October 2024"
+
+- type: "Contributed talk"
+  title: "Inferring the stochastic dynamics of complex networks via message-passing mechanism"
+  venue: "NetSci 2023"
+  date: "July 2023"
+
+- type: "Contributed talk"
+  title: "Autonomous inference of complex network dynamics from incomplete and noisy data"
+  venue: "NetSci 2022"
+  date: "July 2022"
+
+- type: "Invited guest talk"
+  title: "Discovering the complex network dynamics from incomplete and noisy data"
+  venue: "Technical University of Dresden"
+  date: "May 2022"
+
+- type: "Invited report"
+  title: "Discovering the complex network dynamics from incomplete and noisy data"
+  venue: "Swarma Club"
+  date: "April 2022"
