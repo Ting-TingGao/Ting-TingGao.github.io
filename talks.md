@@ -13,6 +13,13 @@ description: Invited talks and presentations by Ting-Ting Gao.
 </div>
 {% endfor %}
 
+## Media & Interviews
+
+<div class="entry">
+  <div><span class="etype">NSR Forum</span> — <a href="https://academic.oup.com/nsr/article/13/7/nwag150/8512882" target="_blank" rel="noopener">Complex systems science in the AI era: a pivotal paradigm for scientific research</a></div>
+  <div class="meta">National Science Review, 13(7), nwag150 · 2026</div>
+</div>
+
 ## Service
 
 <div class="entry">
