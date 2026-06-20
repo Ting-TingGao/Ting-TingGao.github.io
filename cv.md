@@ -30,6 +30,6 @@ description: Curriculum vitae of Ting-Ting Gao.
 
 ## Research interests
 
-Network Science · Nonlinear Dynamics · AI for Science · Symbolic Regression · Physical Networks
+Network Science · AI for Science · Physical Networks
 
 <p style="margin-top:24px"><a href="{{ '/publications/' | relative_url }}">Publications →</a> &nbsp;·&nbsp; <a href="{{ '/talks/' | relative_url }}">Talks →</a></p>

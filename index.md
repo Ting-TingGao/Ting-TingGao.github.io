@@ -14,15 +14,12 @@ title: About
     </p>
     <ul class="tags">
       <li>Network Science</li>
-      <li>Nonlinear Dynamics</li>
       <li>AI for Science</li>
-      <li>Symbolic Regression</li>
       <li>Physical Networks</li>
     </ul>
     <div class="contact-links">
       <a href="mailto:{{ site.email }}">✉ Email</a>
       {% if site.scholar %}<a href="{{ site.scholar }}" target="_blank" rel="noopener">Google Scholar</a>{% endif %}
-      {% if site.cv_pdf %}<a href="{{ site.cv_pdf | relative_url }}" target="_blank" rel="noopener">CV (PDF)</a>{% endif %}
       {% if site.github %}<a href="{{ site.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %}
     </div>
   </div>
