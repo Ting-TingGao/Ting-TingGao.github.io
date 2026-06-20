@@ -20,6 +20,21 @@ description: Invited talks and presentations by Ting-Ting Gao.
   <div class="meta">NetSci 2026</div>
 </div>
 <div class="entry">
-  <div><span class="etype">Reviewer</span> — Physical Review series, Chaos, IEEE Transactions on Network Science and Engineering, Nature Communications, and others</div>
+  <div><span class="etype">Reviewer</span> — Physical Review series, Chaos, IEEE Transactions on Network Science and Engineering, Nature Communications, Science Advances, and others</div>
   <div class="meta">2020 – present</div>
+</div>
+
+## Teaching
+
+<div class="entry">
+  <div><span class="etype">Teaching Assistant</span> — AI and Physics, Tongji University</div>
+  <div class="meta">2021 – 2022</div>
+</div>
+<div class="entry">
+  <div><span class="etype">Teaching Assistant</span> — Network Science, Tongji University</div>
+  <div class="meta">2019 – 2021</div>
+</div>
+<div class="entry">
+  <div><span class="etype">Teaching Assistant</span> — General Physics Experiment, Tongji University</div>
+  <div class="meta">2018</div>
 </div>
