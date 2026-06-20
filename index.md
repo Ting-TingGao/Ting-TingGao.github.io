@@ -20,6 +20,7 @@ title: About
     <div class="contact-links">
       <a href="mailto:{{ site.email }}">✉ Email</a>
       {% if site.scholar %}<a href="{{ site.scholar }}" target="_blank" rel="noopener">Google Scholar</a>{% endif %}
+      {% if site.linkedin %}<a href="{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
       {% if site.github %}<a href="{{ site.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %}
     </div>
   </div>
