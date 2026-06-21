@@ -11,8 +11,12 @@ email: ti.gao@northeastern.edu
 # Update this to your final URL once you create the GitHub repo.
 # If you publish at https://<username>.github.io, set baseurl: "" and url to that.
 # If you publish at https://<username>.github.io/<repo>, set baseurl: "/<repo>".
-url: ""
+url: "https://Ting-TingGao.github.io"
 baseurl: ""
+
+# Paste the code from Google Search Console (HTML tag method) between the quotes
+# to verify ownership for search indexing. Leave blank until you have it.
+google_site_verification: ""
 
 # Contact / profile links (leave blank to hide)
 scholar: "https://scholar.google.com/citations?user=-neTJpAAAAAJ&hl=en"
@@ -47,3 +51,4 @@ exclude:
 # GitHub Pages compatibility
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
