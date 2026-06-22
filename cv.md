@@ -19,8 +19,9 @@ description: Curriculum vitae of Ting-Ting Gao.
 
 ## Honors
 
+<div class="cv-row"><div class="when">2024</div><div class="what"><strong>Cum Laude</strong>Ph.D. in Physics, Tongji University</div></div>
 <div class="cv-row"><div class="when">2022</div><div class="what"><strong>National Scholarship</strong></div></div>
-<div class="cv-row"><div class="when">2018 &amp; 2024</div><div class="what"><strong>Cum Laude</strong>B.Sc. (Applied Physics) and Ph.D. (Physics), Tongji University</div></div>
+<div class="cv-row"><div class="when">2018</div><div class="what"><strong>Cum Laude</strong>B.Sc. in Applied Physics, Tongji University</div></div>
 
 ## Teaching
 
