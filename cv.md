@@ -14,13 +14,13 @@ description: Curriculum vitae of Ting-Ting Gao.
 
 ## Education
 
-<div class="cv-row"><div class="when">2018 – 2024</div><div class="what"><strong>Ph.D. in Physics</strong>Tongji University, Shanghai<br><span class="meta">Advisor: Prof. Gang Yan · <em>Cum Laude</em></span></div></div>
-<div class="cv-row"><div class="when">2014 – 2018</div><div class="what"><strong>B.Sc. in Applied Physics</strong>Tongji University, Shanghai<br><span class="meta"><em>Cum Laude</em></span></div></div>
+<div class="cv-row"><div class="when">2018 – 2024</div><div class="what"><strong>Ph.D. in Physics</strong>Tongji University, Shanghai<br><span class="meta">Advisor: Prof. Gang Yan</span></div></div>
+<div class="cv-row"><div class="when">2014 – 2018</div><div class="what"><strong>B.Sc. in Applied Physics</strong>Tongji University, Shanghai</div></div>
 
 ## Honors
 
 <div class="cv-row"><div class="when">2022</div><div class="what"><strong>National Scholarship</strong></div></div>
-<div class="cv-row"><div class="when">2022</div><div class="what"><strong>Excellent Student Leader</strong></div></div>
+<div class="cv-row"><div class="when">2018 &amp; 2024</div><div class="what"><strong>Cum Laude</strong>B.Sc. (Applied Physics) and Ph.D. (Physics), Tongji University</div></div>
 
 ## Teaching
 
