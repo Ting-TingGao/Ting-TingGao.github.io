@@ -22,11 +22,11 @@
   link: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202519707"
 
 - title: "Scale-Rich Network-Based Metamaterials"
-  authors: "C. Both, A. Y. J. Chen, <strong>T.-T. Gao</strong>, N. Mooij, M. Charara, C. M. Portela*, A.-L. Barabási*"
-  venue: "Under review"
-  year: 2025
+  authors: "C. Both, A. Y. J. Chen, <strong>T.-T. Gao</strong>, N. Mooij, M. Charara, J. Wadhwa, C. M. Portela*, A.-L. Barabási*"
+  venue: "Nature, in press"
+  year: 2026
   details: "arXiv:2511.18108"
-  status: review
+  status: published
   selected: true
   link: "https://arxiv.org/abs/2511.18108"
 
@@ -83,6 +83,6 @@
 # ---- Submitted ----
 - title: "Simultaneous Inference of Network Structure and Dynamics: How Much Data is Needed?"
   authors: "Y.-T. Sun, <strong>T.-T. Gao</strong>*, G. Yan*"
-  venue: "Submitted"
+  venue: "Under review"
   year: 2025
-  status: submitted
+  status: review
