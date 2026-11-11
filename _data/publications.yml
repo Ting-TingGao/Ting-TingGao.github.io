@@ -23,12 +23,12 @@
 
 - title: "Scale-Rich Network-Based Metamaterials"
   authors: "C. Both, A. Y. J. Chen, <strong>T.-T. Gao</strong>, N. Mooij, M. Charara, J. Wadhwa, C. M. Portela*, A.-L. Barabási*"
-  venue: "Nature, in press"
+  venue: "Nature"
   year: 2026
-  details: "arXiv:2511.18108"
+  details: "659, 345"
   status: published
   selected: true
-  link: "https://arxiv.org/abs/2511.18108"
+  link: "https://doi.org/10.1038/s41586-026-11191-2"
 
 - title: "Brain-inspired wiring economics for artificial neural networks"
   authors: "X.-J. Zhang, J. M. Moore, <strong>T.-T. Gao</strong>, X. Zhang, G. Yan*"
