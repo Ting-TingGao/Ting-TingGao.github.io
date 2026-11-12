@@ -50,7 +50,7 @@ propagation.
 ## Selected publications
 
 <ul class="pub-list">
-{% assign selected = site.data.publications | where: "selected", true %}
+{% assign selected = site.data.publications | where: "selected", true | sort: "sel_order" %}
 {% for pub in selected %}
   <li class="pub">
     <div class="pub-title">

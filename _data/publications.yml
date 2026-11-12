@@ -11,6 +11,7 @@
   details: "8(2), 023224"
   status: published
   selected: true
+  sel_order: 5
   link: "https://journals.aps.org/prresearch/abstract/10.1103/9gnh-89jd"
 
 - title: "Encoding cumulation to learn perturbative nonlinear oscillatory dynamics"
@@ -28,6 +29,7 @@
   details: "659, 345"
   status: published
   selected: true
+  sel_order: 3
   link: "https://doi.org/10.1038/s41586-026-11191-2"
 
 - title: "Brain-inspired wiring economics for artificial neural networks"
@@ -45,6 +47,7 @@
   details: "15(1), 6029"
   status: published
   selected: true
+  sel_order: 2
   link: "https://www.nature.com/articles/s41467-024-50378-x"
 
 - title: "Early predictor for the onset of critical transitions in networked dynamical systems"
@@ -78,6 +81,7 @@
   details: "2(3), 160-168"
   status: published
   selected: true
+  sel_order: 1
   link: "https://doi.org/10.1038/s43588-022-00217-0"
 
 # ---- Submitted ----
@@ -86,3 +90,5 @@
   venue: "Under review"
   year: 2025
   status: review
+  selected: true
+  sel_order: 4
