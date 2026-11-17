@@ -31,6 +31,9 @@
   selected: true
   sel_order: 3
   link: "https://doi.org/10.1038/s41586-026-11191-2"
+  cover: "/assets/img/nature-cover-659.jpg"
+  cover_link: "https://www.nature.com/nature/volumes/659/issues/8140"
+  cover_caption: "Nature cover"
 
 - title: "Brain-inspired wiring economics for artificial neural networks"
   authors: "X.-J. Zhang, J. M. Moore, <strong>T.-T. Gao</strong>, X. Zhang, G. Yan*"
