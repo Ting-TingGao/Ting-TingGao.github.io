@@ -21,6 +21,9 @@
   details: "13(25), e19707"
   status: published
   link: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202519707"
+  cover: "/assets/img/advs-cover-25-2026.jpg"
+  cover_link: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.75234"
+  cover_caption: "Inside back cover"
 
 - title: "Scale-Rich Network-Based Metamaterials"
   authors: "C. Both, A. Y. J. Chen, <strong>T.-T. Gao</strong>, N. Mooij, M. Charara, J. Wadhwa, C. M. Portela*, A.-L. Barabási*"
